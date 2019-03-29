@@ -1,0 +1,63 @@
+//–ﬁ∏ƒ∞ÊseqStack.h
+//2019.01.03
+
+#pragma once
+#include<iostream>
+#define MAXLEN 1024
+
+typedef char elementType;
+
+using namespace std;
+
+//À≥–Ú’ª¥Ê¥¢Ω·ππ√Ë ˆ
+typedef struct sStack{
+    elementType data[MAXLEN];
+    int top;
+}seqStack;
+
+//≥ı ºªØ’ª
+void initialStacksS(seqStack &S){
+    S.top=-1;
+}
+
+//≈–∂œø’’ª
+bool stackEmptysS(seqStack &S){
+    if(S.top == -1){
+        return true;
+    }
+    else{
+        return false;
+    }
+}
+
+//≈–∂œ’ª¬˙
+bool stackFullsS(seqStack &S){
+    if(S.top == MAXLEN-1){
+        return true;
+    }
+    else{
+        return false;
+    }
+}
+
+//»Î’ª
+void pushStacksS(seqStack &S, elementType x){
+    if(stackFullsS(S)){
+        cout << "’ª¬˙!Œﬁ∑®»Î’ª!" << endl;
+    }
+    else{
+        S.top++;
+        S.data[S.top]=x;
+    }
+}
+
+//≥ˆ’ª
+void popStacksS(seqStack &S, elementType x){
+    if(stackEmptysS(S)){
+        cout << "’ªø’!Œﬁ∑®≥ˆ’ª!" << endl;
+    }
+    else{
+        x=S.data[S.top];
+        S.top--;
+    }
+}
