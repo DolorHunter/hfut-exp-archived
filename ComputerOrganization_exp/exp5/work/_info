@@ -1,0 +1,166 @@
+m255
+K3
+13
+cModel Technology
+dD:\modeltech_10.1a\examples
+T_opt
+VGC?Y=Lm_D@1f=HYRb<JOj2
+04 6 4 work CPU_tb fast 0
+=1-da1c79319570-5e0c8792-191-e68
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1a;51
+vALU
+!s100 QHmSVW7z]Ni_W4JQbUEem0
+IlJT_enV3@ZbT8]z12=m<P0
+VDg;ZIDeN3[F40E;GAO;Lh3
+Z0 dC:\Users\ultrabook\Desktop\exp5
+w1577874546
+FALU.v
+Z1 8C:/Users/ultrabook/Desktop/exp5/CPU_tb.v
+Z2 FC:/Users/ultrabook/Desktop/exp5/CPU_tb.v
+L0 1
+Z3 OE;L;10.1a;51
+r1
+31
+Z4 !s108 1577879435.764000
+Z5 !s107 InsMem.v|RegFiles.v|ALU.v|CU.v|PC.v|CPU.v|C:/Users/ultrabook/Desktop/exp5/CPU_tb.v|
+Z6 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp5/CPU_tb.v|
+Z7 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a@l@u
+!i10b 1
+!s85 0
+vCPU
+I4c:V<<UfZkg5HJ6BUaQfc0
+V4>doX_lSHJbC_fN9f@RFA2
+Z8 dC:\Users\ultrabook\Desktop\exp5
+w1577879428
+FCPU.v
+R1
+R2
+L0 7
+R3
+r1
+31
+R4
+R5
+R6
+R7
+n@c@p@u
+!s100 TO]_KO6AQVD:l2:0J4@]n3
+!i10b 1
+!s85 0
+vCPU_tb
+IN:ao<EABMVMC54bBF4KG43
+VJ]cozc2R4cz?MTJoP]UO70
+R8
+w1577861106
+R1
+R2
+L0 2
+R3
+r1
+31
+R4
+R5
+R6
+R7
+n@c@p@u_tb
+!s100 ;MO_WCo:k1?J7Fkmf9fm71
+!i10b 1
+!s85 0
+vCU
+Imfff6l1N[_bJYUK?;NI:F1
+VoFCh:X?jGWFJO>Hz7]Pgo3
+R8
+w1577855223
+8C:/Users/ultrabook/Desktop/exp5/CU.v
+FC:/Users/ultrabook/Desktop/exp5/CU.v
+L0 1
+R3
+r1
+31
+R7
+n@c@u
+!s100 :58cHeRb]KFPm3Oc;>IgW1
+!s108 1577879436.070000
+!s107 C:/Users/ultrabook/Desktop/exp5/CU.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp5/CU.v|
+!i10b 1
+!s85 0
+vInsMem
+IeL_8YHW0`^ljiEK_PO?3>0
+VIB`>8]BEPCe7U[Vz:B;YV0
+R8
+w1577874909
+8C:/Users/ultrabook/Desktop/exp5/InsMem.v
+FC:/Users/ultrabook/Desktop/exp5/InsMem.v
+L0 1
+R3
+r1
+31
+R7
+n@ins@mem
+!s100 oXTL[m4bgO=cN`A_z77103
+!s108 1577879436.236000
+!s107 C:/Users/ultrabook/Desktop/exp5/InsMem.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp5/InsMem.v|
+!i10b 1
+!s85 0
+vMemory
+I9a@S3TcNWa9Y6CERZ4YZ92
+V]2og>Ih4@X>cAzA0POOOY3
+R8
+w1577879179
+8C:/Users/ultrabook/Desktop/exp5/Memory.v
+FC:/Users/ultrabook/Desktop/exp5/Memory.v
+L0 1
+R3
+r1
+31
+R7
+n@memory
+!s100 zX[;6ajmQLl[AQX2<OR7>1
+!s108 1577879436.421000
+!s107 C:/Users/ultrabook/Desktop/exp5/Memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp5/Memory.v|
+!i10b 1
+!s85 0
+vPC
+IaRFoDo@nDbP:8oJNJgO7k2
+VKB<GFA;U]bW0:JZ15BnFj3
+R8
+w1577861137
+8C:/Users/ultrabook/Desktop/exp5/PC.v
+FC:/Users/ultrabook/Desktop/exp5/PC.v
+L0 1
+R3
+r1
+31
+R7
+n@p@c
+!s100 ^KzU9]@LLU1hN4DXi=W:Y2
+!s108 1577879436.604000
+!s107 C:/Users/ultrabook/Desktop/exp5/PC.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp5/PC.v|
+!i10b 1
+!s85 0
+vRegFiles
+Ib=:cg:@hPmCz]64Llm^BJ1
+V1a?_b=JLdgBZClzI`OCZL2
+R8
+w1577862760
+8C:/Users/ultrabook/Desktop/exp5/RegFiles.v
+FC:/Users/ultrabook/Desktop/exp5/RegFiles.v
+L0 1
+R3
+r1
+31
+R7
+n@reg@files
+!i10b 1
+!s100 gMT1o2W32Z^73>BG<ci0K1
+!s85 0
+!s108 1577879437.129000
+!s107 C:/Users/ultrabook/Desktop/exp5/RegFiles.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp5/RegFiles.v|

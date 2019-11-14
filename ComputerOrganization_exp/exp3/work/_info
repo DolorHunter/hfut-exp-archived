@@ -1,0 +1,97 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\modeltech_10.1a\examples
+T_opt
+Z1 VXe=gKZkWBigmHU]VJ2EDa2
+Z2 04 5 4 work PC_tb fast 0
+Z3 =1-da1c79319570-5dd14ebf-4-2c34
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OE;O;10.1a;51
+Z7 dD:\modeltech_10.1a\examples
+T_opt1
+Z8 V8aM8c<;Y<U?<EBm5Xo0NF0
+Z9 04 13 4 work DataMemory_tb fast 0
+Z10 =1-da1c79319570-5dd35c53-169-322c
+R4
+Z11 n@_opt1
+R6
+R7
+vDataMemory
+Z12 I`][j^SY7AfCP?mWnN4OVo2
+Z13 VGX3?FePj<G@zMl<Pn_WY<0
+Z14 dC:\Users\ultrabook\Desktop\exp3
+Z15 w1574132069
+Z16 8C:\Users\ultrabook\Desktop\exp3\DataMemory.v
+Z17 FC:\Users\ultrabook\Desktop\exp3\DataMemory.v
+L0 1
+Z18 OE;L;10.1a;51
+r1
+31
+Z19 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z20 n@data@memory
+Z21 !s100 PiAIVXeVXi_L:KO@T^1cI3
+Z22 !s108 1574132073.389000
+Z23 !s107 C:\Users\ultrabook\Desktop\exp3\DataMemory.v|
+Z24 !s90 -reportprogress|300|-work|work|-vopt|C:\Users\ultrabook\Desktop\exp3\DataMemory.v|
+!i10b 1
+!s85 0
+vDataMemory_tb
+!i10b 1
+Z25 !s100 CCmmKekXBA]CF9:am^8VF2
+Z26 I95_7f2TLjYfJAb@:aW?kI3
+Z27 V?EBHl@R@nhRA16kMCBbS:0
+R14
+w1574133028
+Z28 8C:\Users\ultrabook\Desktop\exp3\DataMemory_tb.v
+Z29 FC:\Users\ultrabook\Desktop\exp3\DataMemory_tb.v
+L0 1
+R18
+r1
+!s85 0
+31
+!s108 1574133035.475000
+!s107 C:\Users\ultrabook\Desktop\exp3\DataMemory_tb.v|
+Z30 !s90 -reportprogress|300|-work|work|-vopt|C:\Users\ultrabook\Desktop\exp3\DataMemory_tb.v|
+R19
+Z31 n@data@memory_tb
+vPC
+Z32 IJ:^ljPIgDoaGfolnmGja]1
+Z33 VjWeYW9:00C@NzP=iTLaUN0
+R14
+Z34 w1574131475
+Z35 8C:/Users/ultrabook/Desktop/exp3/PC.v
+Z36 FC:/Users/ultrabook/Desktop/exp3/PC.v
+L0 1
+R18
+r1
+31
+R19
+n@p@c
+Z37 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp3/PC.v|
+Z38 !s100 cN392L0Tk`1Sb4hJ>6i1O3
+Z39 !s108 1574131850.690000
+Z40 !s107 C:/Users/ultrabook/Desktop/exp3/PC.v|
+!i10b 1
+!s85 0
+vPC_tb
+Z41 IPd?PPzK?CBPTl`2ZN6bAc1
+Z42 VFCCkYk:f8eGJm;I:69VF<3
+R14
+Z43 w1574131538
+Z44 8C:/Users/ultrabook/Desktop/exp3/PC_tb.v
+Z45 FC:/Users/ultrabook/Desktop/exp3/PC_tb.v
+L0 1
+R18
+r1
+31
+R19
+Z46 n@p@c_tb
+Z47 !s100 h]QIbIm?Gho_QP<UlKc5S3
+Z48 !s108 1574131850.815000
+Z49 !s107 C:/Users/ultrabook/Desktop/exp3/PC_tb.v|
+Z50 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp3/PC_tb.v|
+!i10b 1
+!s85 0

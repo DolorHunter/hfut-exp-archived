@@ -1,0 +1,10 @@
+module fulladder4(
+    input[3:0] ina,inb,
+    input cin,
+    output[3:0] out,
+    output cout
+);
+    
+    assign {cout,out} = ina + inb + cin;
+    
+endmodule

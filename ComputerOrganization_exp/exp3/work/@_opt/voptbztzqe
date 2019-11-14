@@ -1,0 +1,50 @@
+m255
+K3
+13
+cModel Technology
+dD:\modeltech_10.1a\examples
+T_opt
+VXe=gKZkWBigmHU]VJ2EDa2
+04 5 4 work PC_tb fast 0
+=1-da1c79319570-5dd14ebf-4-2c34
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1a;51
+vPC
+IKDa5gRU7LjRXX3>l3`fc93
+VjWeYW9:00C@NzP=iTLaUN0
+Z0 dC:\Users\ultrabook\Desktop\exp3
+w1573998217
+8C:/Users/ultrabook/Desktop/exp3/PC.v
+FC:/Users/ultrabook/Desktop/exp3/PC.v
+L0 1
+Z1 OE;L;10.1a;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@p@c
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp3/PC.v|
+!s100 BOejNIag68afoAd6N4<_13
+!s108 1573998221.499000
+!s107 C:/Users/ultrabook/Desktop/exp3/PC.v|
+!i10b 1
+!s85 0
+vPC_tb
+IPTk0?Q[6eZ=klQjFcCE]U0
+VFCCkYk:f8eGJm;I:69VF<3
+Z3 dC:\Users\ultrabook\Desktop\exp3
+w1573998258
+8C:\Users\ultrabook\Desktop\exp3\PC_tb.v
+FC:\Users\ultrabook\Desktop\exp3\PC_tb.v
+L0 1
+R1
+r1
+31
+R2
+n@p@c_tb
+!i10b 1
+!s100 Z]mRWX0Ci<Qa]JEF=b0Qo1
+!s85 0
+!s108 1573998262.448000
+!s107 C:\Users\ultrabook\Desktop\exp3\PC_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\ultrabook\Desktop\exp3\PC_tb.v|

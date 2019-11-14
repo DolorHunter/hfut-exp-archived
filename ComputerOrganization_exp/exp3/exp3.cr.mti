@@ -1,0 +1,29 @@
+C:/Users/ultrabook/Desktop/exp3/DataMemory.v {1 {vlog -work work -vopt {C:\Users\ultrabook\Desktop\exp3\DataMemory.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/Users/ultrabook/Desktop/exp3/PC.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp3/PC.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/ultrabook/Desktop/exp3/DataMemory_tb.v {1 {vlog -work work -vopt {C:\Users\ultrabook\Desktop\exp3\DataMemory_tb.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module DataMemory_tb
+
+Top level modules:
+	DataMemory_tb
+
+} {} {}} C:/Users/ultrabook/Desktop/exp3/PC_tb.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp3/PC_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module PC_tb
+
+Top level modules:
+	PC_tb
+
+} {} {}}

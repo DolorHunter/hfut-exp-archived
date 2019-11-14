@@ -1,0 +1,67 @@
+C:/Users/ultrabook/Desktop/exp4/CPU.v {2 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp4/CPU.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module PC
+-- Compiling module CU
+-- Compiling module ALU
+-- Compiling module RegFiles
+-- Compiling module InsMem
+** Warning: InsMem.v(10): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} C:/Users/ultrabook/Desktop/exp4/CU.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp4/CU.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module CU
+
+Top level modules:
+	CU
+
+} {} {}} C:/Users/ultrabook/Desktop/exp4/RegFiles.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp4/RegFiles.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module RegFiles
+
+Top level modules:
+	RegFiles
+
+} {} {}} C:/Users/ultrabook/Desktop/exp4/InsMem.v {2 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp4/InsMem.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module InsMem
+** Warning: C:/Users/ultrabook/Desktop/exp4/InsMem.v(10): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	InsMem
+
+} {} {}} C:/Users/ultrabook/Desktop/exp4/CPU_tb.v {2 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp4/CPU_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module PC
+-- Compiling module CU
+-- Compiling module ALU
+-- Compiling module RegFiles
+-- Compiling module InsMem
+** Warning: InsMem.v(10): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+-- Compiling module CPU
+-- Compiling module CPU_tb
+
+Top level modules:
+	CPU_tb
+
+} {} {}} C:/Users/ultrabook/Desktop/exp4/ALU.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp4/ALU.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/ultrabook/Desktop/exp4/PC.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp4/PC.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}}

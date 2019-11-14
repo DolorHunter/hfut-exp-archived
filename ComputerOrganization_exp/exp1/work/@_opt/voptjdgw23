@@ -1,0 +1,172 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\modeltech_10.1a\examples
+T_opt
+VVCC7SRM;lSLI>aRA65:Kc2
+04 12 4 work decoder38_tb fast 0
+=1-e8b1fcaf417d-5dcd2497-2db-2480
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z2 OE;O;10.1a;51
+T_opt1
+Vg<f^@Q44TfnV1W;EUSJ^M2
+04 13 4 work fulladder4_tb fast 0
+=1-da1c79319570-5dcbcd86-334-2aac
+R1
+n@_opt1
+R2
+Z3 dD:\modeltech_10.1a\examples
+T_opt2
+V8k8D6@FV]VbJ0Z_ja;j]M0
+04 12 4 work comparer8_tb fast 0
+=1-e8b1fcaf417d-5dcd1df2-310-1bb4
+R1
+n@_opt2
+R2
+R3
+vcomparer8
+IFKVgDiNF0;X7:hRRYm;I>1
+VX=8]Z>TXbEjzMdf;VY@nA3
+Z4 dC:\Users\ultrabook\Desktop\exp1
+w1573638234
+8C:/Users/ultrabook/Desktop/exp1/comparer8.v
+FC:/Users/ultrabook/Desktop/exp1/comparer8.v
+L0 1
+Z5 OE;L;10.1a;51
+r1
+31
+Z6 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 <[@mA;fbU;gVc]]TKh3F90
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp1/comparer8.v|
+!s108 1573725327.904000
+!s107 C:/Users/ultrabook/Desktop/exp1/comparer8.v|
+!i10b 1
+!s85 0
+vcomparer8_tb
+I7L72Jb8aaFJ6gGb[TRWQH2
+Vo@aaEH3UoT95LVg=XiV2@0
+R4
+w1573723612
+8C:/Users/ultrabook/Desktop/exp1/comparer8_tb.v
+FC:/Users/ultrabook/Desktop/exp1/comparer8_tb.v
+L0 1
+R5
+r1
+31
+R6
+!s100 jUcZ09@0]NWG1LB>@zYm:3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp1/comparer8_tb.v|
+!s108 1573725327.982000
+!s107 C:/Users/ultrabook/Desktop/exp1/comparer8_tb.v|
+!i10b 1
+!s85 0
+vdecoder38
+ICP]b4c13=c0W`M4h9K5U43
+V<J6ag__F:eZ?l^GM0Z?fO2
+R4
+w1573725308
+8C:/Users/ultrabook/Desktop/exp1/decoder38.v
+FC:/Users/ultrabook/Desktop/exp1/decoder38.v
+L0 1
+R5
+r1
+31
+R6
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp1/decoder38.v|
+!s100 CdhmD3XKjGXZSi[JYXX6E1
+!s108 1573725328.076000
+!s107 C:/Users/ultrabook/Desktop/exp1/decoder38.v|
+!i10b 1
+!s85 0
+vdecoder38_tb
+I`gbQnbke:C_C[c^MYB8aD1
+V^YRLM=M:A;@?mUoU;=1Vh0
+R4
+w1573725322
+8C:\Users\ultrabook\Desktop\exp1\decoder38_tb.v
+FC:\Users\ultrabook\Desktop\exp1\decoder38_tb.v
+L0 1
+R5
+r1
+31
+R6
+!s90 -reportprogress|300|-work|work|-vopt|C:\Users\ultrabook\Desktop\exp1\decoder38_tb.v|
+!i10b 1
+!s100 Nf;XS;E<F0[kTh0ZAmE6M0
+!s85 0
+!s108 1573725328.170000
+!s107 C:\Users\ultrabook\Desktop\exp1\decoder38_tb.v|
+vfulladder4
+Ikh@kZC^>nG@GUnhd@XUO;2
+V9No=?JHS]bHjmJLG@j[i>3
+R4
+w1573304378
+8C:/Users/ultrabook/Desktop/exp1/fulladder4.v
+FC:/Users/ultrabook/Desktop/exp1/fulladder4.v
+L0 1
+R5
+r1
+31
+R6
+!s100 dcI?4nzhVm^nCSl0c;oQW0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp1/fulladder4.v|
+!s108 1573725327.733000
+!s107 C:/Users/ultrabook/Desktop/exp1/fulladder4.v|
+!i10b 1
+!s85 0
+vfulladder4_tb
+ICGfjf:5Nn2HZPF>]TXAR42
+V:4N@o>^VCA_EUPdVf4R0b3
+R4
+w1573723583
+8C:/Users/ultrabook/Desktop/exp1/fulladder4_tb.v
+FC:/Users/ultrabook/Desktop/exp1/fulladder4_tb.v
+L0 1
+R5
+r1
+31
+R6
+!s100 U_KJ4f_<jaHOQH0bMn[]m0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp1/fulladder4_tb.v|
+!s108 1573725327.811000
+!s107 C:/Users/ultrabook/Desktop/exp1/fulladder4_tb.v|
+!i10b 1
+!s85 0
+vmux41
+IjR>^znROPEzA4dD<IFMcZ1
+VB]h]m_9S8YMU:B^Z`Snaa0
+R4
+w1573300144
+8C:/Users/ultrabook/Desktop/exp1/mux41.v
+FC:/Users/ultrabook/Desktop/exp1/mux41.v
+L0 1
+R5
+r1
+31
+R6
+!s100 VA;:FlISi>UDo:8lUk9PP2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp1/mux41.v|
+!s108 1573725327.545000
+!s107 C:/Users/ultrabook/Desktop/exp1/mux41.v|
+!i10b 1
+!s85 0
+vmux41_tb
+I6oA3dgG@YlSWa9Ln8A]n^0
+VlDBJ25SVL9lR_k7@l:eh@1
+R4
+w1573636267
+8C:/Users/ultrabook/Desktop/exp1/mux41_tb.v
+FC:/Users/ultrabook/Desktop/exp1/mux41_tb.v
+L0 1
+R5
+r1
+31
+R6
+!s100 ?fkN=0NUf4m9GDXgCUDSk3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp1/mux41_tb.v|
+!s108 1573725327.639000
+!s107 C:/Users/ultrabook/Desktop/exp1/mux41_tb.v|
+!i10b 1
+!s85 0

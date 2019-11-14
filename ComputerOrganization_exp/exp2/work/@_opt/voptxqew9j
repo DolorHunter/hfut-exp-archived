@@ -1,0 +1,88 @@
+m255
+K3
+13
+cModel Technology
+dD:\modeltech_10.1a\examples
+T_opt
+Vl?5i864C=MZ[GggWRC<>D3
+04 6 4 work ALU_tb fast 0
+=1-da1c79319570-5dd13a46-30a-10d4
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OE;O;10.1a;51
+vALU
+I;:7MIo_EK;d2g;AkR8?^02
+VJGaFI:k;T3NLf;N56lhMP0
+Z0 dC:\Users\ultrabook\Desktop\exp2
+w1573989349
+8C:/Users/ultrabook/Desktop/exp2/ALU.v
+FC:/Users/ultrabook/Desktop/exp2/ALU.v
+L0 1
+Z1 OE;L;10.1a;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a@l@u
+!s100 Q4J2;ljCFid;4?;50443P3
+!s108 1573993020.472000
+!s107 C:/Users/ultrabook/Desktop/exp2/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp2/ALU.v|
+!i10b 1
+!s85 0
+vALU_tb
+IHGezcW3cCREmne@d0DkGR1
+VE`_QLbcAmOeKZDFMXUl3B3
+Z3 dC:\Users\ultrabook\Desktop\exp2
+w1573991377
+8C:/Users/ultrabook/Desktop/exp2/ALU_tb.v
+FC:/Users/ultrabook/Desktop/exp2/ALU_tb.v
+L0 1
+R1
+r1
+31
+R2
+n@a@l@u_tb
+!s100 V4gkYO^kaCJb>>?i1SO?W3
+!s108 1573993020.550000
+!s107 C:/Users/ultrabook/Desktop/exp2/ALU_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp2/ALU_tb.v|
+!i10b 1
+!s85 0
+vRegisterFile
+IAed9JTBPIj=dP91Pc0gT72
+VmUYn?CM<[U1lke]gYYcP:3
+R3
+w1573992905
+8C:/Users/ultrabook/Desktop/exp2/Register.v
+FC:/Users/ultrabook/Desktop/exp2/Register.v
+L0 1
+R1
+r1
+31
+R2
+n@register@file
+!s100 c9e3U^=Akdf`i0PZe>_Ek0
+!s108 1573993020.644000
+!s107 C:/Users/ultrabook/Desktop/exp2/Register.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp2/Register.v|
+!i10b 1
+!s85 0
+vRegisterFile_tb
+IQFU@oceI]WH>;YS@QD=cK0
+VJLDW3:=A6N;c63?McZX2Q3
+R3
+w1573992920
+8C:/Users/ultrabook/Desktop/exp2/Register_tb.v
+FC:/Users/ultrabook/Desktop/exp2/Register_tb.v
+L0 1
+R1
+r1
+31
+R2
+n@register@file_tb
+!i10b 1
+!s100 :P?X7jQLYl2P>hC_To7Gd0
+!s85 0
+!s108 1573993020.738000
+!s107 C:/Users/ultrabook/Desktop/exp2/Register_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/ultrabook/Desktop/exp2/Register_tb.v|

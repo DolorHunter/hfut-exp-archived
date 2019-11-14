@@ -1,0 +1,29 @@
+C:/Users/ultrabook/Desktop/exp2/Register_tb.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp2/Register_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module RegisterFile_tb
+
+Top level modules:
+	RegisterFile_tb
+
+} {} {}} C:/Users/ultrabook/Desktop/exp2/ALU.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp2/ALU.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/ultrabook/Desktop/exp2/ALU_tb.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp2/ALU_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} C:/Users/ultrabook/Desktop/exp2/Register.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp2/Register.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}}

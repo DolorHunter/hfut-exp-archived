@@ -1,0 +1,68 @@
+C:/Users/ultrabook/Desktop/exp5/PC.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp5/PC.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/ultrabook/Desktop/exp5/CU.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp5/CU.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module CU
+
+Top level modules:
+	CU
+
+} {} {}} C:/Users/ultrabook/Desktop/exp5/CPU.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp5/CPU.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module PC
+-- Compiling module CU
+-- Compiling module ALU
+-- Compiling module RegFiles
+-- Compiling module InsMem
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} C:/Users/ultrabook/Desktop/exp5/RegFiles.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp5/RegFiles.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module RegFiles
+
+Top level modules:
+	RegFiles
+
+} {} {}} C:/Users/ultrabook/Desktop/exp5/Memory.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp5/Memory.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} C:/Users/ultrabook/Desktop/exp5/InsMem.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp5/InsMem.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module InsMem
+
+Top level modules:
+	InsMem
+
+} {} {}} C:/Users/ultrabook/Desktop/exp5/CPU_tb.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp5/CPU_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module PC
+-- Compiling module CU
+-- Compiling module ALU
+-- Compiling module RegFiles
+-- Compiling module InsMem
+-- Compiling module CPU
+-- Compiling module CPU_tb
+
+Top level modules:
+	CPU_tb
+
+} {} {}} C:/Users/ultrabook/Desktop/exp5/ALU.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp5/ALU.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

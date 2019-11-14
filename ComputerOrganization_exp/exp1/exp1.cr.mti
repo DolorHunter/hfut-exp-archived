@@ -1,0 +1,57 @@
+C:/Users/ultrabook/Desktop/exp1/fulladder4.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp1/fulladder4.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module fulladder4
+
+Top level modules:
+	fulladder4
+
+} {} {}} C:/Users/ultrabook/Desktop/exp1/mux41.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp1/mux41.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mux41
+
+Top level modules:
+	mux41
+
+} {} {}} C:/Users/ultrabook/Desktop/exp1/fulladder4_tb.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp1/fulladder4_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module fulladder4_tb
+
+Top level modules:
+	fulladder4_tb
+
+} {} {}} C:/Users/ultrabook/Desktop/exp1/mux41_tb.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp1/mux41_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mux41_tb
+
+Top level modules:
+	mux41_tb
+
+} {} {}} C:/Users/ultrabook/Desktop/exp1/decoder38.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp1/decoder38.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module decoder38
+
+Top level modules:
+	decoder38
+
+} {} {}} C:/Users/ultrabook/Desktop/exp1/comparer8.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp1/comparer8.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module comparer8
+
+Top level modules:
+	comparer8
+
+} {} {}} C:/Users/ultrabook/Desktop/exp1/decoder38_tb.v {1 {vlog -work work -vopt {C:\Users\ultrabook\Desktop\exp1\decoder38_tb.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module decoder38_tb
+
+Top level modules:
+	decoder38_tb
+
+} {} {}} C:/Users/ultrabook/Desktop/exp1/comparer8_tb.v {1 {vlog -work work -vopt C:/Users/ultrabook/Desktop/exp1/comparer8_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module comparer8_tb
+
+Top level modules:
+	comparer8_tb
+
+} {} {}}
