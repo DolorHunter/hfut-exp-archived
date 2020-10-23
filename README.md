@@ -2,7 +2,7 @@
 
 ## Catalogue
 
-__[DataStucture](#DataStucture)__ | __[NumericalAnalysis](#NumericalAnalysis)__ | __[BigData](#BigData)__ | __[Assembly](#Assembly)__ | __[ACM-ICPC](#ACM-ICPC)__ | __[Java](#Java)__ | __[CompilerTheory](#CompilerTheory)__ | __[ComputerOrganization](#ComputerOrganization)__ | __[DatabaseSystems](#DatabaseSystems)__
+__[DataStucture](#DataStucture)__ | __[NumericalAnalysis](#NumericalAnalysis)__ | __[BigData](#BigData)__ | __[Assembly](#Assembly)__ | __[ACM-ICPC](#ACM-ICPC)__ | __[Java](#Java)__ | __[CompilerTheory](#CompilerTheory)__ | __[ComputerOrganization](#ComputerOrganization)__ | __[DatabaseSystems](#DatabaseSystems)__ | __[Data Mining](#Data Mining)__
 
 ### DataStucture
 
@@ -86,3 +86,9 @@ date: 2019.12.09
 - exp1: CreateDB/Table | Insert/Update/Delete /etc..
 - exp2: Index | Select | Group | View
 - exp3: Trigger | Proc | Secure
+
+### DataMining_exp
+
+date: 2020.10.19
+
+- exp1: Association Analysis Verification (Apriori)
